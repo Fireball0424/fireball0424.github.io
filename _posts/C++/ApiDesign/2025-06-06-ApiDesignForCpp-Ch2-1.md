@@ -16,7 +16,7 @@ Review by others
 
 ## Hide Implementation Details
 
-Any internal details tjat are most likely to change, must be kept secret from the client of the API
+Any internal details that are most likely to change, must be kept secret from the client of the API
 
 (change without affecting any existing clients)
 
@@ -88,7 +88,7 @@ However, it still shows everything in header file.
 > Use the Pimpl idiom is even better enough
 {: .prompt-tip}
 
-### Hide Implementatio Classes
+### Hide Implementation Classes
 
 Some classes that are purely implementation details should not be exposed to public Api
 
@@ -116,7 +116,7 @@ Moreover, it's possible to hide the contents of FireParticle class from appearin
 
 Some people prefer to use struct to reflect that the structure is a Plain Old Data (POD) type.
 
-#### POD 
+#### POD
 
 (Ref: Wiki)
 簡單來說，指的是class, struct, union，並且不具有使用者定義的constructor, destructor, copy, assignment。No derived relationship (so no base classes), no virtual functions, non-static members are all public, no reference type, no non-POD type, no pointer-to-member-data.
