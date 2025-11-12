@@ -61,7 +61,7 @@ Benefits of getter/setter
 2. Lazy evaluation (Calculating the value of variables whenever variable changes iscostly) → Ex: CalSum()
 3. Caching
 4. Extra Computation → Ex: Store user info into disk whenever they access data
-5. Notification → Ex: When data change, also update GUI 
+5. Notification → Ex: When data change, also update GUI
 6. Debugging (Write logs)
 7. Synchronization (mutual lock)
 8. Finer Access Control (Provide a finer level of read/write control) → Ex: read-only not providing a setter method
