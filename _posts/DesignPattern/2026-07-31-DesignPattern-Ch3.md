@@ -1,6 +1,6 @@
 ---
 title: 深入淺出 設計模式 Ch3 Decorator Pattern
-date: 2026-07-31 20:00:00 +0800 
+date: 2026-07-31 16:00:00 +0800 
 categories: [Design Pattern, HeadFirst]
 tags: [Note, Design Pattern]
 ---
