@@ -6,8 +6,8 @@ order: 4
 
 # 關於我 - Fireball0424 
 
-- 陽明交大資工系 2022-2026
-- 陽明交大資科工碩 2026-Now 
+- 陽明交大資工系 2022 Aug - 2026 Jun
+- 陽明交大資科工碩 2026 Aug - Now 
 
 [Github](https://github.com/Fireball0424)
 
