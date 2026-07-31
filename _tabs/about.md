@@ -6,7 +6,8 @@ order: 4
 
 # 關於我 - Fireball0424 
 
-- 陽明交大資工系 大三
+- 陽明交大資工系 2022-2026
+- 陽明交大資科工碩 2026-Now 
 
 [Github](https://github.com/Fireball0424)
 
@@ -19,8 +20,8 @@ order: 4
 - 2025 CMCT Accepted Paper: Literature survey on single layer and hierarchical correlation clustering 
 
 ## Achievement 
-- ICPC 2024 Asia-Pacific 
+- ICPC 2024-2025 Asia-Pacific 
 - ICPC 2024 Jakarta Rk 6 
-- ICPC 2022-2024 Taiwan Silver 
+- ICPC 2022-2025 Taiwan Silver 
 
 
